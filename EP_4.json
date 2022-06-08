@@ -1,0 +1,16 @@
+{
+    "person": {
+        "u_age": 32,
+        "u_name": [
+            "Serge",
+            100000,
+            32
+        ],
+        "u_salary_5_years": 420000.0
+    },
+    "qa_salary_after_1.5_year": 330000.0,
+    "qa_salary_after_12_months": 270000.0,
+    "qa_salary_after_3.5_years": 380000.0,
+    "qa_salary_after_6_months": 200000,
+    "start_qa_salary": 100000
+}
